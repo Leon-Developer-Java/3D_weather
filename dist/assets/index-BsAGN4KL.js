@@ -1,0 +1,1 @@
+import{C as e}from"./vendor-f3h2PXvd.js";import"./cesium-sm8A7V2Z.js";const t=e.Ion.defaultAccessToken="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJkZGY4ZjU4Zi1hNzE4LTQ5YzQtOGJjNy1mNzY4ZjU4ZjU4ZjUiLCJpZCI6MjQ5NzI5LCJpYXQiOjE3MzU3MjY0MjV9.Zt8Zt8Zt8Zt8Zt8Zt8Zt8Zt8Zt8Zt8Zt8Zt8Zt8";console.log("Cesium Ion token set:",t);
